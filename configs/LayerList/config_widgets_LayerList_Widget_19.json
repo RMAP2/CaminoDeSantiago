@@ -1,0 +1,51 @@
+{
+  "showTitle": true,
+  "showBasemap": false,
+  "showLegend": true,
+  "expandAllLayersByDefault": false,
+  "contextMenu": {
+    "ZoomTo": true,
+    "Transparency": true,
+    "SetVisibilityRange": true,
+    "EnableOrDisablePopup": true,
+    "ControlLabels": true,
+    "MoveupOrMovedown": true,
+    "OpenAttributeTable": true,
+    "DescriptionOrShowItemDetailsOrDownload": true
+  },
+  "layerOptions": {
+    "Puntos_del_Camino_de_Santiago_Imagenes_4717": {
+      "display": true
+    },
+    "Puntos_del_Camino_de_Santiago_Imagenes_7227": {
+      "display": true
+    },
+    "Puntos_del_Camino_de_Santiago_Imagenes_1347": {
+      "display": true
+    },
+    "Puntos_del_Camino_de_Santiago_Imagenes_6679": {
+      "display": true
+    },
+    "Provincias_Galicia_1045": {
+      "display": true
+    },
+    "CaminoSantiago_2379": {
+      "display": true
+    },
+    "CaminoSantiago_2379_0": {
+      "display": true
+    },
+    "CaminoSantiago_2379_1": {
+      "display": true
+    },
+    "CaminoSantiago_2379_2": {
+      "display": true
+    },
+    "CaminoSantiago_2379_3": {
+      "display": true
+    },
+    "CaminoSantiago_2379_4": {
+      "display": true
+    }
+  }
+}

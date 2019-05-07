@@ -1,0 +1,29 @@
+{
+  "legend": {
+    "arrangement": 0,
+    "autoUpdate": true,
+    "respectCurrentMapScale": true
+  },
+  "layerState": {
+    "Puntos_del_Camino_de_Santiago_Imagenes_4717": {
+      "selected": true
+    },
+    "Puntos_del_Camino_de_Santiago_Imagenes_7227": {
+      "selected": true
+    },
+    "Puntos_del_Camino_de_Santiago_Imagenes_1347": {
+      "selected": true
+    },
+    "Puntos_del_Camino_de_Santiago_Imagenes_6679": {
+      "selected": true
+    },
+    "Provincias_Galicia_1045": {
+      "selected": true
+    },
+    "CaminoSantiago_2379": {
+      "selected": false
+    }
+  },
+  "syncWithWebmap": false,
+  "showLegendForBasemap": false
+}

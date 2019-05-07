@@ -1,0 +1,21 @@
+#main-loading{
+	background-color:#dc7c1d;
+	position:relative;
+}
+#main-loading #app-loading{
+	position: absolute;
+	background-image: url('images/background.png');
+	background-repeat: no-repeat;
+	width:217px;
+	height:58px;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+#main-loading #loading-gif{
+	position: absolute;
+	background-repeat: no-repeat;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
